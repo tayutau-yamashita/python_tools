@@ -1,0 +1,22 @@
+﻿h3. user_heroine
+
+[[SpecAPIResponseObjectUserHeroine|編集]]
+|_.field name|_.type|_.name|_.description|_.value|
+|character_id|int|[[SpecStaticDataCharacters|キャラクターID]]|||
+|costume_id|int|衣装ID|||
+|love_level|int|親密度レベル|||
+|love_exp|int|親密経験値|||
+|sing_level|int|歌唱レベル|||
+|sing_exp|int|歌唱経験値|||
+|dance_level|int|舞踏レベル|||
+|dance_exp|int|舞踏経験値|||
+|acting_level|int|演技レベル|||
+|acting_exp|int|演技経験値|||
+|star|int|スタア|||
+|favorite|int|人気|||
+|tired|int|疲労|||
+|training_count_recovers_at|int|稽古回数回復時間予定時刻|Unixタイムスタンプ|0か過去のタイムスタンプであれば全回復状態|
+|date_count|int|デート回数|||
+|sub_card_slot|int|サブカードスロット数|使用可能なサブカードのスロット数(1～3)|||%{color:red} 20151111追加%|
+
+
