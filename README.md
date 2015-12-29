@@ -4,6 +4,7 @@
 ・protocolGen.py
 
 【なにこれ？】
+
 ・App/Assets/Scripts/Common/VariableData/
 　ここの配置されるべき、サーバーから受け取るデータクラスを、ある程度自動生成してくれるスクリプト
 
@@ -12,6 +13,7 @@
 ・Windowsの方は、Pythonインストールすれば使えるんじゃないですかね（バージョンは2.n系）
 
 【使い方】
+
 ・input/input.txtに、WIKIに記載されているデータ表のWIKIの記述をコピー
 例）https://redmine.tayu.jp/projects/momo/wiki/SpecAPIResponseObjectUserCardData/edit
 　　ここ開いて、テキストの部分を全コピー
@@ -29,6 +31,7 @@
 　・改行コードに心配があるので、コミットする際にきちんと差分や変更内容を確認してください
 
 【その他】
+
 今のところ、いくつかこれを使用してソースコードをコミットしているので、バグってる訳ではないと思いますが、使用は自己責任でお願いします。
 
 
